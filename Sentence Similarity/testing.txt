@@ -1,0 +1,5 @@
+Natural language processing refers to the branch of computer science, and more specifically, the branch of artificial intelligence or AI, concerned with giving computers the ability to understand text and spoken words in much the same way human beings can.
+Natural language processing is a subfield of linguistics, computer science, and artificial intelligence concerned with the interactions between computers and human language, in particular how to program computers to process and analyze large amounts of natural language data.
+Natural language processing is a collective term referring to automatic computational processing of human languages.
+Natural language processing is the ability of a computer program to understand human language as it is spoken and written
+I honestly have no idea what NLP is, i just want to pass this course
